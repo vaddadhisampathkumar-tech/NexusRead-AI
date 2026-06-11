@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+pypdf
+beautifulsoup4
+requests
+fpdf2
+python-dotenv
+streamlit-mic-recorder
