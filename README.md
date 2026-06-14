@@ -97,7 +97,6 @@ Just open and start asking.
 
 ### Steps
 
-```bash
 # Step 1 — Clone the repository
 git clone https://github.com/vaddadhisampathkumar-tech/NexusRead-AI.git
 cd NexusRead-AI
