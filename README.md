@@ -110,7 +110,7 @@ echo "GOOGLE_API_KEY=your_key_here" > .env
 streamlit run main.py
 App opens automatically at http://localhost:8501 '''
 
-##📁 **Project Structure**
+##📁 Project Structure
 NexusRead-AI/
 ├── main.py              → Streamlit UI and all frontend logic
 ├── engine.py            → RAG engine, embeddings, chains, web search
@@ -118,7 +118,7 @@ NexusRead-AI/
 ├── .gitignore           → Keeps your API key safe and off GitHub
 └── README.md            → You are here
 
-🧩 **How It Works**
+🧩 How It Works
 User asks a question
         ↓
 Document or URL loaded → Text split into chunks → Embeddings created
@@ -131,14 +131,14 @@ If no answer found + Web Search ON → DuckDuckGo → Gemini synthesises result
         ↓
 Streamed response displayed to user in real time
 
-🔑 **Getting Your Free Gemini API Key**
+🔑 Getting Your Free Gemini API Key
 Visit aistudio.google.com/apikey
 Sign in with your Google account
 Click Create API Key
 Copy it and paste into the NexusRead AI sidebar
 Completely free. No credit card. No billing setup.
 
-🤝 **Contributing**
+🤝 Contributing
 Found a bug? Have an idea to make it better? Contributions are genuinely welcome.
 # Fork the repo
 # Create your branch
@@ -152,7 +152,7 @@ git push origin feature/your-idea
 
 Every contribution — big or small — is appreciated.
 
-👨‍💻 **About the Developer**
+👨‍💻 About the Developer
 Hi, I'm Sampath Kumar — a fresh graduate passionate about Python and AI/ML development.
 I started NexusRead AI as a simple RAG experiment in Google Colab with no local setup and no prior experience in LangChain or vector databases. Over time it evolved into a fully deployed, production-ready AI application with a professional UI, voice input, multi-document support, web search fallback, and chat export.
 Building this taught me more than any course ever could.
@@ -160,7 +160,7 @@ I am actively looking for opportunities in Python Development and AI/ML Engineer
 📬 vaddadhisampathkumar@gmail.com
 🔗 https://www.linkedin.com/in/vaddadhi-sampath-kumar-2b103b
 
-📄 **License**
+📄 License
 This project is open source and available under the MIT License.
 Use it. Learn from it. Build on top of it.
 
