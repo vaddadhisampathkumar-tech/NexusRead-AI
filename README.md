@@ -78,6 +78,7 @@ Voice Input      → Streamlit Mic Recorder
 Deployment       → Streamlit Community Cloud
 
 ---
+---
 
 ## 🚀 Try It Live
 
@@ -95,7 +96,8 @@ Just open and start asking.
 - A free Google Gemini API key — get one at [aistudio.google.com](https://aistudio.google.com/apikey)
 
 ### Steps
-'''
+
+```bash
 # Step 1 — Clone the repository
 git clone https://github.com/vaddadhisampathkumar-tech/NexusRead-AI.git
 cd NexusRead-AI
@@ -108,7 +110,7 @@ echo "GOOGLE_API_KEY=your_key_here" > .env
 
 # Step 4 — Launch the app
 streamlit run main.py
-App opens automatically at http://localhost:8501 '''
+
 
 ##📁 Project Structure
 NexusRead-AI/
